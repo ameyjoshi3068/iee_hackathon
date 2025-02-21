@@ -1,0 +1,3 @@
+2025-02-21 07:37:22,864 - api.views - INFO - File Saved /home/ayush/Desktop/MyDoc/BackEnd/iee_hackathon/spam_call_shield/recordings/audio2.m4a
+2025-02-21 07:38:18,270 - api.views - INFO - Transcript created for /home/ayush/Desktop/MyDoc/BackEnd/iee_hackathon/spam_call_shield/recordings/audio2.m4a
+2025-02-21 07:38:47,832 - api.views - INFO - Text analyzed for /home/ayush/Desktop/MyDoc/BackEnd/iee_hackathon/spam_call_shield/recordings/audio2.m4a : is_suspicious - True, reason - The dialogue appears to be a form of fraudulent activity, directed at a vulnerable individual, potentially in a restricted environment. The tone is manipulative and lacks proper safeguards for account security.
