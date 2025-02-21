@@ -1,0 +1,9 @@
+django
+djangorestframework
+pydub
+openai-whisper
+transformers
+torch
+spacy
+nltk
+ollama
